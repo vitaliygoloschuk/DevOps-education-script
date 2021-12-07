@@ -400,7 +400,3 @@ if grep -q "$email" Vitalii.txt; then
 else
    echo "Sorry this string not in file"
 fi
-git testing
-git testing
-git testing
-git testing
