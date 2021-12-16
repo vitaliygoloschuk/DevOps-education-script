@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# mkdir Goloschuk
-# cd Goloschuk
+mkdir Goloschuk
+cd Goloschuk
 
 echo group1>Vitalii.txt
 echo group2>Goloschuk.txt
