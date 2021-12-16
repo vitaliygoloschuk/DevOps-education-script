@@ -1,7 +1,7 @@
 #!/bin/bash
 
-mkdir Goloschuk
-cd Goloschuk
+# mkdir Goloschuk
+# cd Goloschuk
 
 echo group1>Vitalii.txt
 echo group2>Goloschuk.txt
@@ -400,4 +400,4 @@ if grep -q "$email" Vitalii.txt; then
 else
    echo "Sorry this string not in file"
 fi
-GITHUB ACTIONS
+# GITHUB ACTIONS
